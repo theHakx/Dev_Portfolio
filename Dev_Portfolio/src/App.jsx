@@ -28,7 +28,7 @@ function App() {
           <p className="subtitle">Systems Developer & Technical Lead</p>
           
           <p className="description">
-            Welcome to my central deployment gateway. Don't worry you're not being hacked...yet. Just kidding. This serves as a route to my portfolio down below. Go ahead and click it.
+            Welcome to my central deployment gateway. Don't worry you're not being hacked...yet. Just kidding. This serves as a route to my portfolio down below! Go ahead and click it.
           </p>
 
           <div className="action-container">
